@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+* {
+	font-family: 'Sono', sans-serif;
+	text-decoration: none;
+}
+html {
+	background-color: #131827;
+	color: #fff;
+}
+.boxtitle{
+	text-align: center;
+}
+.boxtitle .img_p{
+	border-radius: 50%;
+}
+.ulist{
+	list-style: none;
+	text-align: center;
+}
+.ulist li{
+	font-size: 25px;
+	letter-spacing: 2px;
+	padding: 12px;
+}
+.ulist li a{
+	color: #ffffff98;
+	font-size: 19px;
+	padding: 2px;
+	border: 1px solid #fff;
+	border-radius: 6px;
+}
+.ulist li a:hover{
+	transition-duration: 0.8s;
+	color: #fff;
+	font-size: 20px;
+}
+footer {
+	margin-top: 50px;
+	font-size: 14px;
+}
